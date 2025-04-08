@@ -1,14 +1,14 @@
-how to run it locally 
+# how to run it locally 
 
-1. npm i 
+1. *npm i* 
 
-2. make a env file 
+2. *make a env file*
     - make two variables 
         - PORT = 5000
         - MONGODB_URI= "your mongodb link"
 
-3. use api tester (e.g.Thuner client , bruno ,postman)
-    - Endports
+3. *use api tester (e.g.Thuner client , bruno ,postman)*
+    - **Endports**
         - http://localhost:5000//users
             - post
             - {
